@@ -1,0 +1,112 @@
+body {
+  margin: 15px;
+  background-color: black;
+}
+
+.tudo {
+  margin-left: 370px;
+  margin-right: 349px;
+}
+
+.wow {
+  color: rgb(255, 255, 255);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(34, 28, 24);
+  padding-bottom: 40px;
+  margin-top: -4px;
+  font-size: 13px;
+  opacity: 70%;
+}
+
+.usuario {
+  font-weight: bold;
+  color: white;
+}
+
+.uau {
+  font-weight: lighter;
+}
+
+.blizzard {
+  text-decoration: underline;
+  color: orange;
+}
+
+.dois {
+  width: 220px;
+  padding-left: 40px;
+  margin-top: 100px;
+}
+
+.padding {
+  padding-left: 30px;
+  padding-right: 20px;
+  font-size: 15px;
+  padding-top: 5px;
+}
+
+.aviso {
+  text-align: center;
+  font-size: 12px;
+  color: #ddd;
+  opacity: 40%;
+}
+
+.tres {
+  margin-top: 100px;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  opacity: 70%;
+  margin-left: 50px;
+}
+
+footer {
+  background-color: rgb(16, 21, 27);
+  margin-top: -5px;
+}
+
+.blizzardimg {
+  width: 150px;
+  margin-left: 230px;
+}
+
+div > ul {
+  color: white;
+  list-style-type: none;
+  font-size: 11px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 25px;
+  margin-left: 50px;
+  opacity: 80%;
+}
+
+.textobot {
+  color: white;
+  font-size: 10px;
+  padding-top: 15px;
+  padding-left: 40px;
+  padding-right: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  opacity: 40%;
+}
+
+.click {
+  font-weight: bold;
+  color: white;
+}
+
+.final {
+  width: 190px;
+  margin-top: 25px;
+  margin-left: 205px;
+  margin-bottom: 25px;
+}
+
+.bar {
+  padding-left: 10px;
+}
+
+div > ul > li {
+  display: inline-block;
+  margin-left: 15px;
+}
